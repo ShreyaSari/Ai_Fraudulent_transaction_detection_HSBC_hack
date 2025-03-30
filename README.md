@@ -1,4 +1,4 @@
-# HSBC_hackathon
+# AI-Based Fraudulent Transaction Detection - HSBC_hackathon
 This is the hsbc hackathon project details
 Date: 21st August 2024
 Location: Thub, Hyd, Telangans
@@ -7,8 +7,6 @@ Location: Thub, Hyd, Telangans
 
 # Goal of the project
 Financial fraud is a growing global concern, costing businesses and individuals billions of dollars every year. Traditional fraud detection methods are often rule-based and prone to failure when fraudsters develop new strategies. AI-based models like Random Forest Classifier can analyze vast amounts of transactional data, identify hidden patterns, and detect fraudulent activities in real-time with high accuracy.
-
-# AI-Based Fraudulent Transaction Detection
 
 ## Project Overview
 This project aims to detect fraudulent transactions using machine learning techniques, specifically leveraging a **Random Forest Classifier**. The dataset is preprocessed, trained, and evaluated to ensure high accuracy in fraud detection. Various performance metrics such as accuracy, precision, recall, and ROC-AUC score are used to assess the model's effectiveness.
